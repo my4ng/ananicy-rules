@@ -1,3 +1,2 @@
 # https://github.com/Alexays/waybar
 { "name": "waybar", "type": "Service" }
-{ "name": ".waybar-wrapped", "type": "Service" }
